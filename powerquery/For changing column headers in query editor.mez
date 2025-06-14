@@ -1,0 +1,8 @@
+
+= Table.TransformColumnNames(#"Renamed Columns1", each Text.Replace(_, "Text1", "text1"))
+
+= Table.TransformColumnNames(#"Custom2", each Text.Replace(_, "123", "ABC"))
+
+= Table.TransformColumnNames(#"Custom1", each Text.Replace(_, "Gunjan", "GUNJAN"))
+
+#"Renamed Columns"
