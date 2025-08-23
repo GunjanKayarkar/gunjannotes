@@ -1,0 +1,15 @@
+//To show the Amount field value against a particular dimension even when the amount field is being split by other dimension columns.
+//So if dimension 1 has amounts as 115, 200, 185 for three different countries or regions or city or whatever then amount field will split, but using this calculated table expression you get it as 500 for all the three rows
+
+Amount against dimension = 
+VAR TotalAmountGunjan =  
+SUMMARIZECOLUMNS(  
+'Table Name Data Model'[Dimension_Number],
+"AmountNameVariable", SUM('Table Name Data Model'[Amount])  
+)  
+RETURN
+GROUPBY(  
+TotalAmountGunjan,
+'Table Name Data Model'[Dimension_Number],
+"AmountNameVariable2", SUMX(CURRENTGROUP(), [AmountNameVariable])  
+)
