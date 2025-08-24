@@ -1,0 +1,3 @@
+`                            `VI EDITOR 
+
+For using via Terminal (which is generally the best method rather than using gVim (which is the inbuilt sasta GUI for Vim) use Ubuntu WSL and navigate like Normal to wherever you want to navigate using cd commands. Then use the command 'vim' to open up vim in your terminal. Then use Vim's commands to open/close/edit files using Vi Editor and the terminal. Write ':vi Filename.c' to open your specific file. Tap 'i' to go into Insertion aka Edit mode and 'Esc' to go back to Command Mode. Command mode is the mode where you enter ':q' , ':wq' types of commands while Insertion mode is used for writing code where you can use your arrows keys, Delete key etc as usual 
