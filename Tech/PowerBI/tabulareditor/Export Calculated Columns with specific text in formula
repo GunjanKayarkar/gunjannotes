@@ -1,0 +1,26 @@
+// Text to search for in calculated column expressions (case-sensitive)
+string searchText = "Text Goes Here";
+
+// Initialize result string
+string result = "No.\tType\tName\tExpression\n";
+int count = 1;
+
+// Loop through all tables
+foreach (var table in Model.Tables)
+{
+    // Loop through calculated columns only
+    foreach (var column in table.Columns.OfType<CalculatedColumn>())
+    {
+        if (column.Expression.Contains(searchText))
+        {
+            result += count.ToString() + "\tCalculated Column\t" +
+                      table.Name + "[" + column.Name + "]\t" +
+                      column.Expression.Replace("\n", " ") + "\n";
+            count++;
+        }
+    }
+}
+
+// Write output to file
+string filePath = "D:calculated_columns_with_specific_text.txt";
+System.IO.File.WriteAllText(filePath, result);
