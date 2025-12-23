@@ -29,5 +29,5 @@ foreach (var table in Model.Tables)
 }
 
 // Write to file
-string filePath = "measures_with_specific_text.txt"; // Adjust the file name as needed
+string filePath = "D:measures_with_specific_text.txt"; // Adjust the file name as needed
 System.IO.File.WriteAllText(filePath, result);
