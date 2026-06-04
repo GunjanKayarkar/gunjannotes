@@ -1,0 +1,4 @@
+
+1. Duplicati 2
+Apparently, according to the internet, the backed up files with duplicati extension are not at all reliable. So best is to avoid this.
+2. restic, freefilesync, veeam, microsfot syncfolder, microsoft synctoy, borg
