@@ -1,0 +1,9 @@
+You can also use doskey to set aliases for commands
+For example:
+	doskey dailysync=rclone sync D:\0syncthing megag86k:syncthingbackup --verbose -P $T rclone sync D:\0syncthing gdrivegk0508:0syncthing --verbose -P
+Here doskey has a special character $T instead of &&
+https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/doskey
+
+
+THIS IS JUST AN EXAMPLE, ACTUAL COMMAND IS IN SCRIPTS SECTION GO LOOK THERE
+doskey dailysyncw=rclone sync --verbose -P E:\0inthddcommon\2g86kc\picturefolder dropboxg86k:picturefolder $T rclone sync --verbose -P E:\0inthddcommon\2g86kc\picturefolder onedrivecgp:picturefolder $T rclone sync --verbose -P E:\0inthddcommon\2g86kc\picturefolder gdrivecgp:picturefolder
