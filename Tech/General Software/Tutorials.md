@@ -1,0 +1,12 @@
+1.  Delete items from Recent Picture List = [https://www.thewindowsclub.com/delete-items-from-recent-picture-list-in-paint](https://www.thewindowsclub.com/delete-items-from-recent-picture-list-in-paint) 
+2.  Windows 10 Permanent Activation = [https://www.minitool.com/news/how-to-activate-windows-10-cmd.html](https://www.minitool.com/news/how-to-activate-windows-10-cmd.html) 
+3.  Top 21 ADB Commands = [https://techwiser.com/list-adb-commands/](https://techwiser.com/list-adb-commands/) 
+4.  How to backup Android Data = [https://techwiser.com/how-to-backup-android/](https://techwiser.com/how-to-backup-android/) 
+5.  How to install Ubuntu alongside Windows = [https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/) 
+6.  How to uninstall Ubuntu from Windows dual boot = [https://itsfoss.com/uninstall-ubuntu-linux-windows-dual-boot/](https://itsfoss.com/uninstall-ubuntu-linux-windows-dual-boot/) 
+7.  How to dual boot linux and windows = [https://opensource.com/article/18/5/dual-boot-linux#Ubuntu](https://opensource.com/article/18/5/dual-boot-linux#Ubuntu) 
+8.  How do I use laptop as a monitor = [https://www.hp.com/us-en/shop/tech-takes/how-do-I-use-laptop-as-monitor](https://www.hp.com/us-en/shop/tech-takes/how-do-I-use-laptop-as-monitor) 
+9.  How to limit battery charging on ASUS laptop linux = [https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html](https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html) 
+10.  Install WSL on non C drive locations: [https://kontext.tech/column/tools/308/how-to-install-windows-subsystem-for-linux-on-a-non-c-drive](https://kontext.tech/column/tools/308/how-to-install-windows-subsystem-for-linux-on-a-non-c-drive) 
+11.  Fix Windows 11 taskbar's autogrouping functionality by replacing it with Windows 10's taskbar: [https://github.com/valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) [https://www.reddit.com/r/Windows11/comments/q81j9v/how_to_change_windows_11_to_windows_10_taskbar/hi4itkw/](https://www.reddit.com/r/Windows11/comments/q81j9v/how_to_change_windows_11_to_windows_10_taskbar/hi4itkw/)  Open 'run' from start menu and paste the following : rundll32.exe C:\Windows\dxgi.dll,ZZGUI
+12.  [https://superuser.com/questions/1377414/how-to-encrypt-txt-files-with-aes256-via-windows-7z-command-line](https://superuser.com/questions/1377414/how-to-encrypt-txt-files-with-aes256-via-windows-7z-command-line)
