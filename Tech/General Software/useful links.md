@@ -16,3 +16,18 @@
 	16. https://www.linuxuprising.com/2021/02/how-to-limit-battery-charging-set.html How to limit battery charge percentage on Linux
 	17. https://superuser.com/questions/1377414/how-to-encrypt-txt-files-with-aes256-via-windows-7z-command-line Using 7zip on Linux
 	18. https://www.naturalreaders.com/online/ Text to Speech
+	
+Generic
+	1.  [https://f5bot.com/](https://f5bot.com/) 
+	2.  [https://github.com/tycrek/degoogle](https://github.com/tycrek/degoogle) 
+	3.  [https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy) 
+	4.  [https://www.atg.world/search](https://www.atg.world/search) 
+	5.  [https://www.reddit.com/r/Bitwarden/comments/suujd7/ways_to_lose_your_account_and_other_thoughts/](https://www.reddit.com/r/Bitwarden/comments/suujd7/ways_to_lose_your_account_and_other_thoughts/)
+	6. 
+
+Text based /  grammar etc
+	1.  [https://answerthepublic.com/reports/3b1199d1-e090-4ec8-b5ce-159a2161621a](https://answerthepublic.com/reports/3b1199d1-e090-4ec8-b5ce-159a2161621a) 
+	2.  [https://www.keywordrevealer.com/](https://www.keywordrevealer.com/) 
+	3.  [https://coschedule.com/headline-analyzer](https://coschedule.com/headline-analyzer) 
+	4.  [https://onelook.com/](https://onelook.com/)
+
