@@ -1,3 +1,7 @@
+Discord Links:
+https://canary.discord.com/
+
+https://discord.com/
 
 10.  Dyno 
     
